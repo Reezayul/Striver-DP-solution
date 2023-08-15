@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Kjumptabular",
+      "request": "launch",
+      "mainClass": "Jumpwithkdistance.Kjumptabular",
+      "projectName": "Striver DP sereis solution_820e651e"
+    },
+    {
+      "type": "java",
+      "name": "Kjump",
+      "request": "launch",
+      "mainClass": "Jumpwithkdistance.Kjump",
+      "projectName": "Striver DP sereis solution_820e651e"
+    },
+    {
+      "type": "java",
       "name": "JumpStairs",
       "request": "launch",
       "mainClass": "Jump.JumpStairs",
