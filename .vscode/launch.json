@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "AdajacentSumTabular",
+      "request": "launch",
+      "mainClass": "MaximumAdajecentSum.AdajacentSumTabular",
+      "projectName": "Striver DP sereis solution_820e651e"
+    },
+    {
+      "type": "java",
+      "name": "AdajacentSum",
+      "request": "launch",
+      "mainClass": "MaximumAdajecentSum.AdajacentSum",
+      "projectName": "Striver DP sereis solution_820e651e"
+    },
+    {
+      "type": "java",
       "name": "Kjumptabular",
       "request": "launch",
       "mainClass": "Jumpwithkdistance.Kjumptabular",
